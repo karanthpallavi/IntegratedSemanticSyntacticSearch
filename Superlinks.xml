@@ -1,0 +1,84 @@
+a<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="http://localhost:8080/SearchIntegrator/css_files/xmlformat.css"?>
+<xml xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+<head>
+
+</head>
+
+<body>
+<superlink xlink:type="extended" xlink:show="new" xlink:actuate="onRequest" >
+			pricklychaffflower 
+			<locator xlink:type="locator" xlink:href="http://localhost/Batch_52_2011/xml_files/file1.xml" 
+					 xlink:title="pricklychaffflower definition" xlink:show="replace" xlink:actuate="onRequest" xlink:role="definition">
+				
+			</locator>
+			
+			<locator xlink:type="locator" xlink:href="http://localhost/Batch_52_2011/xml_files/file1.xml" 
+					 xlink:title="pricklychaffflower definition2" xlink:show="replace" xlink:actuate="onRequest" xlink:role="definition">
+				
+			</locator>
+			
+			<locator xlink:type="locator" xlink:href="http://localhost/Batch_52_2011/xml_files/file1.xml" 
+					 xlink:title="pricklychaffflower chemicalcomposition" xlink:show="new" xlink:actuate="onRequest" xlink:role="chemicalcomposition">
+					 
+				
+			</locator>
+			
+			<locator xlink:type="locator" xlink:href="http://localhost/Batch_52_2011/xml_files/file1.xml" 
+					 xlink:title="pricklychaffflower morphology" xlink:show="replace" xlink:actuate="onRequest" xlink:role="morphology">
+				
+			</locator>
+			
+	</superlink>
+
+<superlink xlink:type="extended" xlink:show="new" xlink:actuate="onRequest" >
+			pricklychaffflower 
+			<locator xlink:type="locator" xlink:href="http://localhost/Batch_52_2011/xml_files/file1.xml" 
+					 xlink:title="pricklychaffflowermedicinaluse" xlink:show="replace" xlink:actuate="onRequest" xlink:role="medicinaluse">
+				
+			</locator>
+			
+			<locator xlink:type="locator" xlink:href="http://localhost/Batch_52_2011/xml_files/file1.xml" 
+					 xlink:title="pricklychaffflowerdistribution" xlink:show="replace" xlink:actuate="onRequest" xlink:role="distribution">
+				
+			</locator>
+			
+			<locator xlink:type="locator" xlink:href="http://localhost/Batch_52_2011/xml_files/file1.xml"
+                        xlink:title="pricklychaffflower scientificclassification" xlink:show="new" xlink:actuate="onRequest" xlink:role="definition">
+					 
+				
+			</locator>
+			
+	</superlink>
+
+        <superlink xlink:type="extended" xlink:show="new" xlink:actuate="onRequest">
+			turmeric
+			<locator xlink:type="locator" xlink:href="http://localhost/Batch_52_2011/xml_files/file2.xml//description[@id='turmericdescription']"
+					 xlink:title="turmeric description" xlink:show="replace" xlink:actuate="onRequest" xlink:role="description">
+
+			</locator>
+
+			<locator xlink:type="locator" xlink:href="http://localhost/Batch_52_2011/xml_files/file2.xml//othernames[@id='turmericothernames']"
+					 xlink:title="turmeric othernames" xlink:show="replace" xlink:actuate="onRequest" xlink:role="definition">
+
+			</locator>
+
+			<locator xlink:type="locator" xlink:href="http://localhost/Batch_52_2011/xml_files/file2.xml//chemicalcomposition[@id='turmericchemicalcomposition']"
+					 xlink:title="turmeric chemicalcomposition" xlink:show="new" xlink:actuate="onRequest" xlink:role="definition">
+
+
+			</locator>
+
+			<locator xlink:type="locator" xlink:href="http://localhost/Batch_52_2011/xml_files/file2.xml//morphology[@id='turmericmorphology']"
+					 xlink:title="turmeric morphology" xlink:show="replace" xlink:actuate="onRequest" xlink:role="description">
+
+			</locator>
+
+	</superlink>
+
+	
+</body>
+
+</xml>
+
